@@ -1,0 +1,15 @@
+{
+  "name": "simple-selection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-selection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.1.7",
+    "node-fetch": "^1.7.3"
+  }
+}
